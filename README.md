@@ -62,7 +62,7 @@ Introduced an asynchronous pruning routine for database reset backup archives. T
 
 ---
 
-## Layer5
+## Layer5 
 
 [Layer5](https://github.com/layer5io/layer5) is the open source, cloud-native management company behind Meshery and related projects. The website is built with Gatsby and React.
 
